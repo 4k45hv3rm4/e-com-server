@@ -1,0 +1,5 @@
+USER_REGISTRATION_SUCCESFULL = 'Registration Successfull'
+USER_WITH_EMAIL_ALREADY_EXISTS = 'User with this email already exists'
+PRODUCT_ADDED_TO_CART = 'Product added to cart'
+ITEM_ALREADY_IN_CART = 'Item already in cart'
+PRODUCT_NOT_FOUND = 'Product not found'
